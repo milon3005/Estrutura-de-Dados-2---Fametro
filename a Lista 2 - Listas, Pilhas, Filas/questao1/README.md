@@ -1,5 +1,5 @@
 
-# Questão 1 v2 - Lista Estoque
+# Questão 1 - Lista Estoque
 
 ## Compilação e Execução
 ```bash

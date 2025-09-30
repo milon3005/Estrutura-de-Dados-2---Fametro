@@ -1,5 +1,5 @@
 
-# Questão 2 v2 - Fila Ingressos
+# Questão 2 - Fila Ingressos
 
 ## Compilação e Execução
 ```bash

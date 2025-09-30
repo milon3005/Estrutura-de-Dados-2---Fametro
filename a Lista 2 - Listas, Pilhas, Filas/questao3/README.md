@@ -1,5 +1,5 @@
 
-# Questão 3 v2 - Pilha Processos
+# Questão 3 - Pilha Processos
 
 ## Compilação e Execução
 ```bash
